@@ -1,4 +1,5 @@
-<img src="https://komarev.com/ghpvc/?username=mahsin2004&label=Profile%20views&color=0e75b6&style=flat" alt="mahsin2004" />
+<img src="https://komarev.com/ghpvc/?username=mahsin2004&label=Profile%20views&color=0e75b6&style=flat" alt="mahsin2004" align="center" />
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=A+passionate+frontend+developer+from+Bangladesh" alt="Typing SVG" /></a>
 
 </p><h1 align="center">Hi 👋, I'm MAHSIN</h1><p align="left"> 
