@@ -4,6 +4,7 @@
 <br />
 
 I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 **About me**
 
