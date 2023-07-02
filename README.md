@@ -3,8 +3,6 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
-
 <h1 align="center">Hi 👋, I'm MAHSIN</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh...</h3>
 
