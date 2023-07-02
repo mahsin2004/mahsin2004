@@ -8,15 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahsin2004&label=Profile%20views&color=0e75b6&style=flat" alt="mahsin2004" /> </p>
 
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently learning **Complete Web Development**
 
 - 👨‍💻 All of my projects are available at [https://mahsin2004.netlify.app/](https://mahsin2004.netlify.app/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **UI Design & Front-End Development**
 
 - 📫 How to reach me **mahsin1912@gmail.com**
 
