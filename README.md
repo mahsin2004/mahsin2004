@@ -6,6 +6,7 @@
 I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 **About me**
 
 - 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
