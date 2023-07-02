@@ -3,10 +3,9 @@
 
 <br />
 
-<h1 align="center">Hi 👋, I'm MAHSIN</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh...</h3>
+<h1 align="center">Hi 👋, I'm MAHSIN</h1><p align="left"> <img src="https://komarev.com/ghpvc/?username=mahsin2004&label=Profile%20views&color=0e75b6&style=flat" alt="mahsin2004" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahsin2004&label=Profile%20views&color=0e75b6&style=flat" alt="mahsin2004" /> </p>
+<h3 align="center">A passionate frontend developer from Bangladesh...</h3>
 
 - 🌱 I’m currently learning **Complete Web Development**
 
@@ -21,8 +20,6 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mahsin) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mahsin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahsin) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mahsin) 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahsin2004&label=Profile%20views&color=0e75b6&style=flat" alt="mahsin2004" /> </p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mahsin2004&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
