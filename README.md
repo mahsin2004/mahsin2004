@@ -4,10 +4,6 @@
 <br />
 
 I'm a self-taught passionate FrontEnd developer from India 🇮🇳
-![](https://komarev.com/ghpvc/?username=your-github-username)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
-**About me**
 
 <h1 align="center">Hi 👋, I'm MAHSIN</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh...</h3>
