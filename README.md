@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Complete Web Development**
 
-  - 👨‍💻 All of my projects are available at [[https://mahsin2004.netlify.app/](https://mahsin2004.netlify.app/](https://mahsin2004.github.io/dasiy/))]
+- 👨‍💻 All of my projects are available at [(https://marvelous-cupcake-6db414.netlify.app/)]
 
 - 💬 Ask me about **UI Design & Front-End Development**
 
