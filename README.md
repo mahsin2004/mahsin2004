@@ -4,7 +4,7 @@
 
 </p><h1 align="center">Hi 👋, I'm MAHSIN</h1><p align="left"> 
 
-- 🌱 I’m currently learning **Frontend Web Development**
+- 🌱 I’m currently learning **Next.js && TypeScript**
 
 - 👨‍💻 All of my projects are available at [([https://jobs-platform-client.web.app])]
 
