@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Frontend Web Development**
 
-- 👨‍💻 All of my projects are available at [([https://marvelous-cupcake-6db414.netlify.app/](https://jobs-platform-client.web.app/))]
+- 👨‍💻 All of my projects are available at [([https://jobs-platform-client.web.app])]
 
 - 💬 Ask me about **UI Design & Front-End Development**
 
