@@ -4,7 +4,7 @@
 
 </p><h1 align="center">Hi 👋, I'm MAHSIN</h1><p align="left"> 
 
-- 🌱 I’m currently learning **Next.js && TypeScript**
+- 🌱 I’m currently learning **TypeScript && Redux Toolkit**
 
 - 👨‍💻 All of my projects are available at [([https://jobs-platform-client.web.app])]
 
