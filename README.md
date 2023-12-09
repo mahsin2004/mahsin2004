@@ -5,9 +5,7 @@
 
 
 # 💻 Technologies that I know:
-![mahsin2004's Stats](https://github-readme-stats.vercel.app/api?username=mahsin2004&theme=solarized-light&show_icons=true&hide_border=true&count_private=true)
-![mahsin2004's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahsin2004&theme=solarized-light&hide_border=true)
-![mahsin2004's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsin2004&theme=solarized-light&show_icons=true&hide_border=true&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahsin2004)](https://git.io/streak-stats)
 
 # 👨‍💻 About Me
 
