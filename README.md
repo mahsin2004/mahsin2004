@@ -21,9 +21,7 @@
 
 # 📊 GitHub Stats:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahsin2004&theme=nord&hide_border=true)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=mahsin2004&theme=nord&show_icons=true&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsin2004&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahsin2004)](https://git.io/streak-stats)
 
 # 📫 Reach me out
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mahsin-mia)
