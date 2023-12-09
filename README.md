@@ -50,7 +50,7 @@
 
 **Used Technology :** 
 <ul>
- <li>Frontend : React.js, Javascript, TailwindCSS </li>
+ <li>Frontend : React.js, Javascript, TailwindCSS, daisyUI</li>
  <li>Backend : Express.js</li>
  <li>Database : MongoDB</li>
  <li>Authentication : Firebase</li>
@@ -69,7 +69,7 @@
 **Features :** 
 <ul>
  <li>Implemented user authentication and authorization</li>
- <li>Users can apply for any Test and cancel apply tests.</li>
+ <li>Users can apply for any Test and cancel applied tests.</li>
  <li>Implemented user and Admin Functionality.</li>
  <li>Integrated and managed data using MongoDB.
 </li>
@@ -78,7 +78,7 @@
 
 **Used Technology :** 
 <ul>
- <li>Frontend : React.js, Javascript, Material Ui, TailwindCSS </li>
+ <li>Frontend : React.js, Javascript, Material Ui, TailwindCSS</li>
  <li>Backend : Express.js</li>
  <li>Database : MongoDB</li>
  <li>Authentication : Firebase</li>
@@ -105,7 +105,7 @@
 
 **Used Technology :** 
 <ul>
- <li>Frontend : React.js, Javascript, TailwindCSS </li>
+ <li>Frontend : React.js, Javascript, TailwindCSS, daisyUI </li>
  <li>Backend : Express.js</li>
  <li>Database : MongoDB</li>
  <li>Authentication : Firebase</li>
