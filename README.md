@@ -35,7 +35,7 @@
 
 **[Client side Repo Link](https://github.com/mahsin2004/jobs-platform-client)**
 
-**[Server Side Repo Link](https://github.com/Porgramming-Hero-web-course/b8a11-client-side-mahsin2004)**
+**[Server Side Repo Link](https://github.com/mahsin2004/jobs-platform-server)**
 
 **[Live Link](https://jobs-platform-client.web.app)**
 
@@ -110,4 +110,6 @@
  <li>Database : MongoDB</li>
  <li>Authentication : Firebase</li>
 </ul>
+
+
 
