@@ -33,9 +33,7 @@
 
 **Description :** CareerBuilder is a versatile job-finding platform that empowers users to search for jobs based on their skills, and preferences.
 
-**[Client side Repo Link](https://github.com/mahsin2004/jobs-platform-client)**
-
-**[Server Side Repo Link](https://github.com/mahsin2004/jobs-platform-server)**
+**[Repo Link](https://github.com/mahsin2004/jobs-platform-client)**
 
 **[Live Link](https://jobs-platform-client.web.app)**
 
@@ -60,9 +58,7 @@
 
 **Description :** Manages appointments, patient records, test results, and administrative tasks for a diagnostic center.
 
-**[Client side Repo Link](https://github.com/mahsin2004/diagonostic-center-client)**
-
-**[Server Side Repo Link](https://github.com/mahsin2004/diagonostic-center-server)**
+**[Repo Link](https://github.com/mahsin2004/diagonostic-center-client)**
 
 **[Live Link](https://b8a12-server-client.web.app)**
 
@@ -88,9 +84,7 @@
 
 **Description :** Cars Collection Shop, where automotive enthusiasts find a curated selection of high-quality vehicles. User-friendly interface and detailed information on each unique automobile. 
 
-**[Client side Repo Link](https://github.com/mahsin2004/brand-shop-client)**
-
-**[Server Side Repo Link](https://github.com/mahsin2004/brand-shop-server)**
+**[Repo Link](https://github.com/mahsin2004/brand-shop-client)**
 
 **[Live Link](https://brand-shop-client-1.web.app)**
 
