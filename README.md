@@ -26,20 +26,22 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsin2004&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # 📫 Reach me out
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mahsin-mia/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-mahsin-mia)
 
 # 👨‍💻 My Projects
 ## 1. Job Finding Website
 
 **Description :** CareerBuilder is a versatile job-finding platform that empowers users to search for jobs based on their skills, and preferences.
 
-**[Repo Link](https://github.com/mahsin2004/jobs-platform-client)**
+**[Client side Repo Link](https://github.com/mahsin2004/jobs-platform-client)**
+
+**[Server Side Repo Link](https://github.com/mahsin2004/jobs-platform-server)**
 
 **[Live Link](https://jobs-platform-client.web.app)**
 
 **Features :** 
 <ul>
- <li>Users can apply for any job and cancel applied job.</li>
+ <li>Users can apply for any job, post job and cancel applied job.</li>
  <li>Developed a responsive and intuitive user interface with React.js.</li>
  <li>Integrated and managed data using MongoDB.
 </li>
@@ -58,14 +60,16 @@
 
 **Description :** Manages appointments, patient records, test results, and administrative tasks for a diagnostic center.
 
-**[Repo Link](https://github.com/mahsin2004/diagonostic-center-client)**
+**[Client side Repo Link](https://github.com/mahsin2004/diagonostic-center-client)**
+
+**[Server Side Repo Link](https://github.com/mahsin2004/diagonostic-center-server)**
 
 **[Live Link](https://b8a12-server-client.web.app)**
 
 **Features :** 
 <ul>
  <li>Implemented user authentication and authorization</li>
- <li>Users can apply for any Test and cancel applied tests.</li>
+ <li>Users can apply for any Test and cancel apply tests.</li>
  <li>Implemented user and Admin Functionality.</li>
  <li>Integrated and managed data using MongoDB.
 </li>
@@ -84,7 +88,9 @@
 
 **Description :** Cars Collection Shop, where automotive enthusiasts find a curated selection of high-quality vehicles. User-friendly interface and detailed information on each unique automobile. 
 
-**[Repo Link](https://github.com/mahsin2004/brand-shop-client)**
+**[Client side Repo Link](https://github.com/mahsin2004/brand-shop-client)**
+
+**[Server Side Repo Link](https://github.com/mahsin2004/brand-shop-server)**
 
 **[Live Link](https://brand-shop-client-1.web.app)**
 
