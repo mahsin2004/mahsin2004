@@ -5,7 +5,7 @@
 
 
 # 💻 Technologies that I know:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahsin2004)](https://git.io/streak-stats)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,materialui,firebase,figma,mongodb,express,git,github&perline=8)](https://skillicons.dev)
 
 # 👨‍💻 About Me
 
