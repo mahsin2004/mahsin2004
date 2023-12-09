@@ -105,7 +105,7 @@
 
 **Used Technology :** 
 <ul>
- <li>Frontend : React.js, Javascript, Material Ui, TailwindCSS </li>
+ <li>Frontend : React.js, Javascript, TailwindCSS </li>
  <li>Backend : Express.js</li>
  <li>Database : MongoDB</li>
  <li>Authentication : Firebase</li>
