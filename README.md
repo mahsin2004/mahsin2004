@@ -41,7 +41,7 @@
 
 **Features :** 
 <ul>
- <li>Users can apply for any job and cancel apply job.</li>
+ <li>Users can apply for any job and cancel applied job.</li>
  <li>Developed a responsive and intuitive user interface with React.js.</li>
  <li>Integrated and managed data using MongoDB.
 </li>
@@ -69,7 +69,7 @@
 **Features :** 
 <ul>
  <li>Implemented user authentication and authorization</li>
- <li>Users can apply for any Test and cancel apply tests.</li>
+ <li>Users can apply for any Test and cancel applied tests.</li>
  <li>Implemented user and Admin Functionality.</li>
  <li>Integrated and managed data using MongoDB.
 </li>
