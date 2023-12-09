@@ -5,8 +5,9 @@
 
 
 # 💻 Technologies that I know:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,materialui,firebase,figma,mongodb,express,git,github&perline=8)](https://skillicons.dev)
+![mahsin2004's Stats](https://github-readme-stats.vercel.app/api?username=mahsin2004&theme=solarized-light&show_icons=true&hide_border=true&count_private=true)
+![mahsin2004's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahsin2004&theme=solarized-light&hide_border=true)
+![mahsin2004's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsin2004&theme=solarized-light&show_icons=true&hide_border=true&layout=compact)
 
 # 👨‍💻 About Me
 
