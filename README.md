@@ -9,7 +9,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,materialui,firebase,figma,mongodb,express,git,github&perline=8)](https://skillicons.dev)
 
-# About Me
+# 👨‍💻 About Me
 
 <p>A proficient Frontend Developer skilled in translating design concepts into seamless, high-performance user interfaces using React.js. Passionate about crafting captivating web experiences that resonate with users.</p>
 
@@ -29,7 +29,7 @@
 # 📫 Reach me out
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-mahsin-mia)
 
-# 👨‍💻 My Projects
+# ⚡ My Projects
 ## 1. Job Finding Website
 
 **Description :** CareerBuilder is a versatile job-finding platform that empowers users to search for jobs based on their skills, and preferences.
