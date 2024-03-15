@@ -5,7 +5,7 @@
 
 
 # 💻 Technologies that I know:
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,materialui,firebase,figma,mongodb,express,git,github&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,next,redux,materialui,firebase,figma,mongodb,express,git,github&perline=8)](https://skillicons.dev)
 
 # 👨‍💻 About Me
 
@@ -13,7 +13,7 @@
 
 # 👀 Current overview
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Typscript**
 
 - 💬 Ask me about **Front-End Development & UI Design**
 
