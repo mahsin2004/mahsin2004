@@ -21,8 +21,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahsin2004)](https://git.io/streak-stats)
 
-# ![Uploading GofourwardWebdesignGIF.gif…]()
- All Project
+# 💪 All Project
 
 - **[All Reposotories](https://github.com/mahsin2004?tab=repositories)**
 
