@@ -5,7 +5,7 @@
 
 
 # 💻 Technologies that I know:
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,next,redux,materialui,firebase,figma,mongodb,nest,express,git,github&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,docker,react,next,redux,materialui,firebase,figma,mongodb,nest,express,git,github&perline=8)](https://skillicons.dev)
 
 # 👨‍💻 About Me
 
