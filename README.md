@@ -1,115 +1,28 @@
+
+<img src="https://i.postimg.cc/bNMXJSgR/md-mahsin-mia.jpg" alt="mahsin2004" />
 <img src="https://komarev.com/ghpvc/?username=mahsin2004&label=Profile%20views&color=0e75b6&style=flat" alt="mahsin2004" />
 
-<img src="https://i.postimg.cc/hP70Zj6Z/md-mashin-mia.jpg" alt="mahsin2004" />
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/reduxTolKit-%23593d88.svg?style=flat&logo=reduxTolKit&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=flat&logo=webpack&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=A+passionate+frontend+developer+from+Bangladesh...." alt="Typing SVG" /></a>
 
-# 💻 Technologies that I know:
+</p><h1 align="center">Hi 👋, I'm MAHSIN</h1><p align="left"> 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,materialui,firebase,figma,mongodb,express,git,github&perline=8)](https://skillicons.dev)
+- 🌱 I’m currently learning **TypeScript && Redux Toolkit**
 
-# About Me
+- 👨‍💻 All of my projects are available at [([https://jobs-platform-client.web.app])]
 
-<p>A proficient Frontend Developer skilled in translating design concepts into seamless, high-performance user interfaces using React.js. Passionate about crafting captivating web experiences that resonate with users.</p>
+- 💬 Ask me about **UI Design & Front-End Development**
 
-# 👀 Current overview
-
-- 🌱 I’m currently learning **Next.js**
-
-- 💬 Ask me about **Front-End Development & UI Design**
+- 📫 How to reach me **mahsin1912@gmail.com**
 
 
 # 📊 GitHub Stats:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mahsin2004&theme=nord&hide_border=true)](https://git.io/streak-stats)<br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahsin2004&theme=nord&show_icons=true&hide_border=true)<br/>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsin2004&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-# 📫 Reach me out
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/md-mahsin-mia)
-
-# 👨‍💻 My Projects
-## 1. Job Finding Website
-
-**Description :** CareerBuilder is a versatile job-finding platform that empowers users to search for jobs based on their skills, and preferences.
-
-**[Client side Repo Link](https://github.com/mahsin2004/jobs-platform-client)**
-
-**[Server Side Repo Link](https://github.com/mahsin2004/jobs-platform-server)**
-
-**[Live Link](https://jobs-platform-client.web.app)**
-
-**Features :** 
-<ul>
- <li>Users can apply for any job, post job and cancel applied job.</li>
- <li>Developed a responsive and intuitive user interface with React.js.</li>
- <li>Integrated and managed data using MongoDB.
-</li>
- <li>Utilized the backend to ensure seamless data flow.</li>
-</ul>
-
-**Used Technology :** 
-<ul>
- <li>Frontend : React.js, Javascript, TailwindCSS </li>
- <li>Backend : Express.js</li>
- <li>Database : MongoDB</li>
- <li>Authentication : Firebase</li>
-</ul>
-
-## 2. Diagnostic Center Website
+![](https://github-readme-stats.vercel.app/api?username=mahsin2004&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mahsin2004&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahsin2004&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-
-**[Client side Repo Link](https://github.com/mahsin2004/diagonostic-center-client)**
-
-**[Server Side Repo Link](https://github.com/mahsin2004/diagonostic-center-server)**
-
-**[Live Link](https://b8a12-server-client.web.app)**
-
-**Features :** 
-<ul>
- <li>Implemented user authentication and authorization</li>
- <li>Users can apply for any Test and cancel apply tests.</li>
- <li>Implemented user and Admin Functionality.</li>
- <li>Integrated and managed data using MongoDB.
-</li>
- <li>Utilized the backend to ensure seamless data flow.</li>
-</ul>
-
-**Used Technology :** 
-<ul>
- <li>Frontend : React.js, Javascript, Material Ui, TailwindCSS </li>
- <li>Backend : Express.js</li>
- <li>Database : MongoDB</li>
- <li>Authentication : Firebase</li>
-</ul>
-
-## 3. Cars Collection Website
-
-**Description :** Cars Collection Shop, where automotive enthusiasts find a curated selection of high-quality vehicles. User-friendly interface and detailed information on each unique automobile. 
-
-**[Client side Repo Link](https://github.com/mahsin2004/brand-shop-client)**
-
-**[Server Side Repo Link](https://github.com/mahsin2004/brand-shop-server)**
-
-**[Live Link](https://brand-shop-client-1.web.app)**
-
-**Features :** 
-<ul>
- <li>Users can buy any Test and cancel buy tests. (user can see all cars under different brands)</li>
- <li>Implemented user and Admin Functionality.</li>
- <li>Integrated and managed data using MongoDB.
-</li>
- <li>Utilized the backend to ensure seamless data flow.</li>
-</ul>
-
-**Used Technology :** 
-<ul>
- <li>Frontend : React.js, Javascript, TailwindCSS </li>
- <li>Backend : Express.js</li>
- <li>Database : MongoDB</li>
- <li>Authentication : Firebase</li>
-</ul>
-
-
-
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mahsin) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mahsin) 
